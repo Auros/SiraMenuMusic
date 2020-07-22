@@ -1,0 +1,18 @@
+﻿<vertical xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://monkeymanboy.github.io/BSML-Docs/ https://raw.githubusercontent.com/monkeymanboy/BSML-Docs/gh-pages/BSMLSchema.xsd">
+  <horizontal pref-height="7" size-delta-y="7">
+    <text text="Sojourn - Seven Lions, Crystal Skies" font-size="7" align="Center" />
+  </horizontal>
+  <horizontal child-align="MiddleCenter" spacing="5">
+    <img src="SiraMenuMusic.Resources.undo-solid.png" preserve-aspect="true" pref-width="13" pref-height="13" />
+    <img src="SiraMenuMusic.Resources.random-solid.png" preserve-aspect="true" pref-width="13" pref-height="13" />
+    <img src="https://i1.sndcdn.com/artworks-000526347462-bpjiy5-t500x500.jpg" preserve-aspect="true" pref-height="22" />
+    <img src="SiraMenuMusic.Resources.play-solid.png" preserve-aspect="true" pref-width="13" pref-height="13" />
+    <img src="SiraMenuMusic.Resources.sfx-icon.png" preserve-aspect="true" pref-width="13" pref-height="13" />
+  </horizontal>
+  <vertical pref-width="80" pref-height="1" size-delta-x="80" size-delta-y="1" spacing="-3" >
+    <bg size-delta-x="120" size-delta-y="3">
+      <img id="background-bar" src="SiraMenuMusic.Resources.pixel.png" pref-width="80" pref-height="1" size-delta-x="80" size-delta-y="1" ignore-layout="true" />
+      <img id="progress-bar" src="SiraMenuMusic.Resources.pixel.png" pref-width="80" pref-height="1" size-delta-x="80" size-delta-y="1" ignore-layout="true" />
+    </bg>
+  </vertical>
+</vertical>
